@@ -1,9 +1,8 @@
 ## Olá eu sou o Deivid Martins um estudante de ADS 
-# Road to Desenvolvedor Web Full Stack
+# 
 
-- 🔭 Procurando estagio em back-end php/ciencia de dados python
+
 - 🌱 Graduando em  Analise denvolvimento de sistemas
-- 👯 Estudando  Python para ciencia de dados - Alura
 - 📫 Contate-me no: md031194@gmail.com
 - ⚡ Fun fact: Eu amo mercado financeiro[daytrade] e adoro desenvolver 
 sistemas automatizados de backtest e estatistica para validar minhas operacoes
