@@ -10,9 +10,8 @@ using Javascript,
 and since then I haven't stopped.
 I like to learn about design patterns and software architecture
 and coding!
-- 📫 Contate-me no: md031194@gmail.com
-- ⚡ Fun fact: Eu amo mercado financeiro[daytrade] e adoro desenvolver 
-sistemas automatizados de backtest e estatistica para validar minhas operacoes
+- 📫 : md031194@gmail.com
+
  </p>
  </div
 
