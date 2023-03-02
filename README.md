@@ -1,9 +1,8 @@
-## Olá eu sou o Deivid Martins um estudante de ADS 
-# 
-
+<h1> Hi iam Deivid</h1>
 
 <div align="center">
-     <p>- 🌱 Hello, my name is Deivid,
+     
+ <p align="justify">
 I'm a Software Analysis and Development student and I'm in my last year of college.
 I currently work at an internet provider.
 Well, my interest in software engineering started in 2015 when I created a web scripting bot in the company that worked
