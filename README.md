@@ -9,7 +9,7 @@ sistemas automatizados de backtest e estatistica para validar minhas operacoes
 
 <div align = "center">
  <a href="https://github.com/deivid94">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deivid94&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deivid94&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivid94&hide=,html&theme=tokyonight&layout=compact"/>
  </div>
  
