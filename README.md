@@ -2,10 +2,20 @@
 # 
 
 
-- 🌱 Graduando em  Analise denvolvimento de sistemas
+<div align="center">
+     <p>- 🌱 Hello, my name is Deivid,
+I'm a Software Analysis and Development student and I'm in my last year of college.
+I currently work at an internet provider.
+Well, my interest in software engineering started in 2015 when I created a web scripting bot in the company that worked
+using Javascript,
+and since then I haven't stopped.
+I like to learn about design patterns and software architecture
+and coding!
 - 📫 Contate-me no: md031194@gmail.com
 - ⚡ Fun fact: Eu amo mercado financeiro[daytrade] e adoro desenvolver 
 sistemas automatizados de backtest e estatistica para validar minhas operacoes
+ </p>
+ </div
 
 <div align = "center">
  <a href="https://github.com/deivid94">
