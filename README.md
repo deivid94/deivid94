@@ -1,5 +1,16 @@
 <h3> Hi iam Deivid M.</h3>
 <a href="https://www.deivid-dev.com.br">My portifolio</a><hr>
+<p>
+   
+    I currently work at an internet provider in brazil
+    Well, my interest in software engineering, and web developement  when I created a web scripting bot in the company that worked
+    using Javascript, Css, Html
+    and since then I haven't stopped.
+    I like to learn about Sotware Enginer, design system  and coding!
+    I HAVE DREAM  TO WORKING AT GOOGLE.
+    - 📫 : md031194@gmail.com"
+   
+</p>
 
 
    ```java
@@ -23,13 +34,7 @@
 
  </div>
  
- <div align="center" style="display: inline_block"><br>
 
-  <img align="center" alt="Deivid-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Deivid-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Deivid-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-          
-</div>
   
   ##
 
