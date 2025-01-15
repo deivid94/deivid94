@@ -17,10 +17,10 @@
       public class Tecnologies {
         public static void main (String[] args){
 
-            string javascript = "NodeJs, Nextjs, React, Fastfy, Jest";
-            String Python = "Flask"
-            string java = "Springboot";
-            string stylesheet = "Sass, Styled-components";
+            string Backend = "NodeJS,Python ";
+            String Front-end  = "React"
+             String DB  = "Postgress, MYSQL"
+            string frameworks  = "nextjs, flask"
                                                  
           }
          
