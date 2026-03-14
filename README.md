@@ -7,7 +7,6 @@
     using Javascript, Css, Html
     and since then I haven't stopped.
     I like to learn about Sotware Enginer, design system  and coding!
-    I HAVE DREAM  TO WORKING AT GOOGLE.
     - 📫 : md031194@gmail.com"
    
 </p>
@@ -17,9 +16,10 @@
       public class Tecnologies {
         public static void main (String[] args){
 
-            string Backend = "NODEJS, JAVA/SPRING-BOOT ";
-            String Front-end  = "REACT/NEXTJS"
-             String DB  = "POSTGRES, MYSQL"
+            string Backend = "NODEJS,EXPRESS, FASTFY, NEXTJS, REACT ";
+            String Front-end  = "HTML,CSS TAILWIND"
+             String DB  = "POSTGRES, MYSQL, FIREBASE/"
+            String DevsOPs = "DOCKER, CI/CD, ZOD,"
                                             
           }
          
