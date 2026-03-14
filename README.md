@@ -1,7 +1,6 @@
-<h3> Hi iam Deivid M.</h3>
+<div align="center" style="display:inline_block"> 
 <a href="https://app.rocketseat.com.br/me/deivid-martins-1994"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=deivid-martins-1994&type=card" width="280" alt="Deivid Martins's Rocket ID"/></a>
-<a href="https://www.deivid-dev.com.br">My portifolio</a><hr>
-
+</div>
 <p>
    
     I currently work at an internet provider in brazil
