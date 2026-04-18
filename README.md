@@ -19,11 +19,12 @@
 
 ## 🧑‍💻 About Me
 
-> Started my journey building a **web scripting bot** at an internet provider using vanilla JS, CSS and HTML — and haven't stopped since.
+> Full Stack Developer focused on building scalable web applications with Node.js and React. Passionate about clean architecture, great developer experience, and turning complex problems into simple solutions.
 
-- 💼 Currently working at an **internet provider in Brazil**
-- 🚀 Passionate about **Software Engineering**, **Design Systems** and clean code
-- 📚 Always learning — currently deep-diving into **architecture & DevOps**
+
+
+
+- 🚀 Passionate about **Software Engineering**
 - 📫 Reach me at **md031194@gmail.com**
 
 ---
