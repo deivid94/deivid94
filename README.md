@@ -27,6 +27,13 @@
         }
 ```
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deivid94/deivid94/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deivid94/deivid94/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/deivid94/deivid94/output/pacman-contribution-graph.svg">
+</picture>
+
+
 <div align="center" style="display: inline_block;">
  <a href="https://github.com/deivid94">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deivid94&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
