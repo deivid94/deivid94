@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey, I'm Deivid Martins 👋
-### Full Stack Developer · Node.js · React · TypeScript
+### Full Stack Developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6F4E99&center=true&vWidth=500&lines=Full+Stack+Developer+%F0%9F%9A%80;Node.js+%7C+React+%7C+TypeScript;Always+learning+new+things+%F0%9F%93%9A)](https://git.io/typing-svg)
 
