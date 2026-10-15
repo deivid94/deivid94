@@ -9,12 +9,11 @@
 
 ---
 
-<div align="center">
-  <a href="https://app.rocketseat.com.br/me/deivid-martins-1994">
-    <img src="https://app.rocketseat.com.br/api/rocketid/share?slug=deivid-martins-1994&type=card" width="280" alt="Deivid Martins's Rocket ID"/>
-  </a>
-</div>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deivid94/deivid94/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deivid94/deivid94/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/deivid94/deivid94/output/github-contribution-grid-snake.svg" />
+</picture>
 ---
 
 ## 🧑‍💻 About Me
@@ -64,22 +63,6 @@ const deivid = {
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🕹️ Pacman Contribution Graph
-
-<script type="module">
-import { PacmanRenderer } from 'https://cdn.jsdelivr.net/npm/pacman-contribution-graph/dist/pacman-contribution-graph.min.js';
-const pr = new PacmanRenderer({
-    platform: 'github',
-    username: 'deivid94',
-    canvas: document.getElementById('canvas'),
-    outputFormat: 'canvas',
-    gameTheme: 'github'
-});
-pr.start();
-</script>
 
 ---
 
