@@ -28,17 +28,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-```typescript
-const deivid = {
-  backend:  ["Node.js", "Express", "Fastify", "Next.js"],
-  frontend: ["React", "HTML", "CSS", "Tailwind CSS"],
-  database: ["PostgreSQL", "MySQL", "Firebase"],
-  devops:   ["Docker", "CI/CD"],
-  tools:    ["Zod", "Prisma", "TypeScript"],
-};
-```
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
