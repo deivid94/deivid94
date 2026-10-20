@@ -70,7 +70,7 @@ in code, in the gym and in life.
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=deivid94&color=6F4E99&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=deivid94&color=6F4E99&style=for-the-badge&label=PROFILE+VIEWS)]
 
 *"The best way to predict the future is to build it."*
 
