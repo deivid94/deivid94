@@ -18,47 +18,48 @@
 
 ## 🧑‍💻 About Me
 
-> Full Stack Developer focused on building scalable web applications with Node.js and React. Passionate about clean architecture, great developer experience, and turning complex problems into simple solutions.
+> # Hey there, I'm Deivid 👋
 
+Softwarte engineer by day, disciplined nerd 24/7 🤓💪
 
-
-
-- 🚀 Passionate about **Software Engineering**
-- 📫 Reach me at **md031194@gmail.com**
+I love turning ideas into stuff that actually works, but life's not just about code.
+Around here you'll find my projects, experiments and everyday learnings.
 
 ---
 
+- 💻 I build web apps (Node.js + React)
+- 🏋️ Training is non-negotiable: the gym is part of my routine
+- 📈 I'm into the stock market and price action
+- 📱 I make content about fitness, coding and lifestyle
+- 📚 Always learning something new, code or not
 
-### Frontend
+### 🎯 What drives me
+
+**Discipline > motivation.**
+I believe showing up every day beats going all-in once in a while,
+in code, in the gym and in life.
+
+### ☕ Random facts
+
+- 🌙 My best code comes right after a workout
+- 🐛 I've lost hours over a missing semicolon (who hasn't?)
+- 🎧 Coding without music? No way
+
+### STACK
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-
-### Database & ORM
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
 ## 🌐 Connect with me
 
 <div align="center">
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__martinxx/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deivid-martins-6a62911a0)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:md031194@gmail.com)
